@@ -1,0 +1,11 @@
+{
+  "profile": "Profile",
+  "name": "Name",
+  "city": "City",
+  "age": "Age",
+  "save": "Save",
+  "edit": "Edit",
+  "enter_name": "Enter Name",
+  "enter_city": "Enter City",
+  "enter_age": "Enter Age"
+}
